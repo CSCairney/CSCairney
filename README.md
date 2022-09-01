@@ -8,7 +8,13 @@
 
 ### My Github Stats
 
+
 [![CSCairney's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscairney&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/cscairney/github-readme-stats)
+
+
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cscairney&layout=compact&theme=vision-friendly-dark)](https://github.com/cscairney/github-readme-stats)
 
 ### Skills
 <a href="#">

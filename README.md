@@ -1,4 +1,5 @@
-### Hi there! 
+![header](https://capsule-render.vercel.app/api?text=Welcome!&fontColor=dedede&animation=fadeIn&color=timeGradient&type=waving)
+
 
 - My name is Charles Cairney and im a Full Stack Java Developer! Currently working for QA.
 - I have a Bachelors of Mechanical Engineering.

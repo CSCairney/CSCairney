@@ -1,9 +1,7 @@
-- My name is Charles Cairney and im a Full Stack Java Developer! Currently working for QA.
-- I have a Bachelors of Mechanical Engineering.
-- Currently based on the west coast of Scotland.
+- My name is Charles Cairney and im a Full Stack JavaScript Developer! Currently working for QA using Bitbucket.
+- My FE focus is in React/Next.js support with Node.js and AWS.
+- Current Skills I'm focusing: Redux (RTK), Azure, Playwright and React Native
 - Currently, I'm looking to join projects that challenge my current knowledge to become a more proficient developer.
-
-### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cscairney&layout=compact&theme=vision-friendly-dark)](https://github.com/cscairney/github-readme-stats)
 

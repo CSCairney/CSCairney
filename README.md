@@ -3,7 +3,6 @@
 - Current Skills I'm focusing: Redux (RTK), Azure, Playwright and React Native
 - Currently, I'm looking to join projects that challenge my current knowledge to become a more proficient developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cscairney&layout=compact&theme=vision-friendly-dark)](https://github.com/cscairney/github-readme-stats)
 
 ## Thanks for stopping by! If you want to connect use the links below!
 <a href="mailto: charlescairney@yahoo.co.uk">

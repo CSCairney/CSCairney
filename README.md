@@ -1,4 +1,4 @@
-- My name is Charles Cairney and im a Full Stack Mid level Software Engineer! Currently working for QA Ltd.
+- My name is Charles Cairney and im a Full Stack Mid level Software Engineer! Currently working for City Plumbing.
 - My FE focus is in React/Next.js and building BE in Java, Node and C++.
 - Current Skills I'm focusing: Redux (RTK), Azure, Playwright, Kafka and React Native.
 - A key objective of mine is to create user-friendly and accessible experiences for everyone while ensuring the highest levels of security.

@@ -1,9 +1,8 @@
 - My name is Charles Cairney and im a Full Stack Mid level Software Engineer! Currently working for City Plumbing.
-- My FE focus is in React/Next.js and building BE in Java, Node and C++.
-- Current Skills I'm focusing: Redux (RTK), Azure, Playwright, Kafka and React Native.
+- My FE focus is in React/Next.js and building BE in Java and node.
+- Current Skills I'm focusing on learn/improving: Graphql, Kafka and React Native.
 - A key objective of mine is to create user-friendly and accessible experiences for everyone while ensuring the highest levels of security.
 - Currently, I'm looking to join projects that challenge my current knowledge to become a more proficient developer.
-
 
 ## Thanks for stopping by! If you want to connect use the links below!
 <a href="mailto: charlescairney@yahoo.co.uk">
